@@ -1,0 +1,61 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+fieldset{
+    background-color: lightskyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppins';
+    margin: 10px;
+}
+
+.centre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(136, 168, 189);
+}
+.youtube{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(136, 168, 189);
+}
+
+nav{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.calculate{
+    width: 150px;
+    border-radius: 15px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 80px;
+    background-color: rgb(137, 178, 204);
+    
+}
+
+#weight-guide{
+    margin: 50px;
+}
+
